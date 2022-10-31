@@ -1,2 +1,2 @@
 # hexlet-java
-hello
+My first Hexlet project.
